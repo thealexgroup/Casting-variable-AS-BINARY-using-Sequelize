@@ -1,0 +1,1 @@
+# Casting-variable-AS-BINARY-using-Sequelize
